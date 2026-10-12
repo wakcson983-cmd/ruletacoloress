@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "ruleta_colores",
+  "version": "${version}",
+  "name": "Ruleta de Colores",
+  "description": "Item de ruleta de 8 colores con menu, animaciones, sonidos y notificacion para todos los jugadores.",
+  "authors": [],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.ruletacolores.RuletaMod" ],
+    "client": [ "com.ruletacolores.client.RuletaClient" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

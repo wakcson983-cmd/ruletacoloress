@@ -1,0 +1,74 @@
+{
+ "tick": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:tick",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.tick"
+ },
+ "enter": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:enter",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.enter"
+ },
+ "exit": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:exit",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.exit"
+ },
+ "spin_start": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:spin_start",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.spin_start"
+ },
+ "land": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:land",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.land"
+ },
+ "recolor": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:recolor",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.recolor"
+ },
+ "select": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:select",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.select"
+ },
+ "bubble": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:bubble",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.bubble"
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "item.ruleta_colores.ruleta": "Roulette",
+  "key.ruleta_colores.hide": "Ocultar notificacion de la ruleta",
+  "key.categories.ruleta_colores": "Ruleta de Colores",
+  "subtitles.ruleta_colores.tick": "Tic de la ruleta",
+  "subtitles.ruleta_colores.enter": "Aparece la ruleta",
+  "subtitles.ruleta_colores.exit": "Se va la ruleta",
+  "subtitles.ruleta_colores.spin_start": "La ruleta empieza a girar",
+  "subtitles.ruleta_colores.land": "La ruleta cae en un color",
+  "subtitles.ruleta_colores.recolor": "Cambia un color",
+  "subtitles.ruleta_colores.select": "Seleccion",
+  "item.ruleta_colores.globo": "Text Bubble",
+  "subtitles.ruleta_colores.bubble": "Message arrives",
+  "key.ruleta_colores.read": "Read full roulette message",
+  "key.ruleta_colores.config": "Roulette settings"
+}
